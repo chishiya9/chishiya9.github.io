@@ -2,113 +2,108 @@
 layout: default
 ---
 
-![1264439](https://user-images.githubusercontent.com/122244346/212585910-e58bcbd4-66aa-4193-abc2-6684538025a5.jpg)
+![1264439](https://user-images.githubusercontent.com/117327869/213347929-eec06f3e-9345-49a9-ae3c-e2528f54a564.png)
 
-# Hello pooooo ;3
+# Welcome!!!
 
+### About Me
 
+#### Listen to this song while scrolling down
 
-### Expensive Income~
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/XToA-1dZYWA?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
-#### Punpun appreciation gaanggg!!!! ༼ಢ_ಢ༽
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/X6e6F_z17sI?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-![nxZJG1X](https://user-images.githubusercontent.com/122244346/212382607-da54bab0-a3ef-4a24-b390-36db8aa5b8b1.jpeg)
+<dl>
+<dt>Name</dt>
+<dd>Jessie John Diez</dd>
+<dt>Birthdate</dt>
+<dd>January 23, 2008</dd>
+<dt>Age</dt>
+<dd>14 years old</dd>
+<dt>Birthplace</dt>
+<dd>Naga, Camarines Sur</dd>
+<dt>Address</dt>
+<dd>#4 Magallanes St., San Pantaleon, Magarao</dd>
+</dl>
 
 #### Interested in:
 
-*   Playing the Guitar/Ukelele
-*   Art (drawing)
-*   Learning Spanish
-*   History 
-*   Philosophy and Politics (very dumb in these 。U⁄ ⁄ω⁄ ⁄ U。 )
-*   Photography (I suck at it, but am improving)
-*   Cooking n' Baking
+*   Playing Games
+*   Cooking
+*   Science
+*   Sports (Football) 
+*   Perfumes
+*   Editing Pictures
+*   Flying Planes (Practicing Virtually)
+*   to Carlynne Nicole-Kyla O. Bailey
 
-#### Favorite foods and beverages:
+#### Favorite Songs:
  
-* Milktea
-* Pizza
-* Pesto pasta
-* Mi goreng
-* Water
-* Bread
-* Mung bean soup
-* Sweet potato
+* Die For You - Joji
+* Feeling Like the End - Joji
+* Glimpse of us - Joji
+* Pasilyo - SunKissed Lola
+* Umaasa - Calein
+* Fallen - Lola Amour
+* 1AM Freestyle - Joji
+* Dulo ng Hangganan - IV of Spades
+* Mundo - IV of Spades
+* Ulap - Rob Daniel
+* Isa lang - Arthur Nery
+* SLOW DANCING IN THE DARK - Joji
+* Spolarium - Eraserheads
+* Ikaw Lamang - Silent Sanctuary
+* Mahika - Adie & Janine Berdin
+* Jopay - Mayonnaise 
 
-### Favorite animes and mangas:
+#### Favorite animes and mangas:
+
 * Chainsaw Man
-* Demon Slayer
-* A Silent Voice 
-* I Want to Eat Your Pancreas
-* Goodnight Punpun
-* and counting...
+* Haikyuu
+* Tokyo Ghoul 
+* Highrise Invasion
+* My Hero Academia
+* Black Clover
+* Kuroko's Basketball
+* Kakegurui
+* Attack on Titan
+* Blue Lock
+* One Piece
+* Classroom Assasination
+* A Promise Neverland
 
+#### Favorite foods and beverages
 
-
-
-
-### Dead  
+* Dinuguan
+* Chop suey
+* Pork Chop
+* Ulam ni Hans
+* Gravy
+* Cocacola
+* Sprite
 
 * * *
 
-### Intrusive thoughts:
+### Quick Minigame
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+### Tic Tac Toe
 
-### To dos:
+![image](https://user-images.githubusercontent.com/117327869/213353716-87e5fb7d-8d96-4a68-b6d6-6de5bd9c3025.png)
 
-- Science Pr
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+## Rules
 
-### OctoNeko
+* Find a Partner/Friend to play with you first or Click this computer icon to play with a bot. (this icon can be seen in your top left screen) ![image](https://user-images.githubusercontent.com/117327869/213354124-6a0c31ce-7b7e-43d5-8dd1-d27c90c40bdd.png)
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+* The game is played on a grid that's 3 squares by 3 squares.
+* The first player to get 3 of her marks in a row (up, down, across, or diagonally) is the winner.
+* When all 9 squares are full, the game is over.
+* Enjoy!
+
+**Additionals**
+
+* You can play whenever you want!
+* Do not mind the Tokens.
+* You can change the size of the game by clicking this in your top right screen between New game and Tokens ![image](https://user-images.githubusercontent.com/117327869/213354345-1e81b906-8ab9-45c3-a800-6beb8b3ead86.png)
+
+[Click this to Run the Game](./Game.html)
 
 
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⣼⡟⡀⠀⠀⠀⠀⠁⡴⠋⠉⠉⠙⡧⡄⣆⠀⠀⠀⠀⠀⣠⣯⡇⠀⢀⣴⡶⣿⢍⣄⢄⡀⠀⠀⠀⣶⡆⠀⠀⢀⣤⡖⡀⠀⠀⠀⠀
-⠀⠈⣿⡿⠿⣿⣷⣆⠀⣟⣏⣀⡀⣀⣠⣇⣷⢻⡆⠀⠀⠀⡼⣿⠋⣀⣦⡋⠯⠉⠀⠁⠃⠷⣽⠀⠀⠀⣿⡇⡠⡿⠉⠁⠀⠀⠀⠀⠀⠀
-⠀⠐⣿⠅⠀⠈⠻⣿⡄⣯⡟⠛⠛⠛⠛⠛⠋⠉⣷⠀⠀⡟⡽⠁⢀⢕⡷⣷⣶⣶⣶⣶⡶⠛⠂⠀⠀⠀⣿⡏⠋⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⣿⡇⠀⠀⠀⣿⡇⠉⠳⣤⣀⣀⣀⣄⡀⠀⠽⡇⣿⠏⠀⠀⠘⣿⡇⠀⠀⠀⠉⠀⠀⠀⠀⠀⠀⠀⡿⡇⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠉⠀⠀⠀⠀⠱⠇⠀⠀⠈⠙⠛⠛⠉⠁⠀⠀⠿⠃⠀⠀⠀⠀⠙⠛⣿⣓⣶⣦⣤⣤⡄⠀⠀⠀⠀⣷⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⣤⣤⣄⠀⠀⠀⠀⣀⠤⡤⡄⡀⠀⠂⠀⣶⣆⣀⡀⠀⠀⠀⠉⠉⠛⠓⠛⠃⠀⠀⠀⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⣸⠏⡏⠛⢝⣧⠀⠀⣿⠏⠉⠑⠫⣝⡇⠀⠀⡿⡟⠻⠟⣟⣧⡀⠠⣾⣿⠷⢶⣦⣄⠀⠀⢠⡾⠯⣿⣆⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⣿⢆⡃⠀⡠⡟⡄⠀⡧⠃⠀⠀⠀⠠⡇⠀⠀⣿⡇⠀⠀⠩⡏⡇⠀⣿⣿⠀⠀⠉⢻⣷⡄⢿⡇⠀⠸⣿⡀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠣⣕⢟⣛⠟⣧⡇⠀⣻⣏⣆⣢⣔⠋⠁⠀⠀⠛⠿⠀⠀⠀⠃⠃⠀⢻⡿⠀⠀⠀⠈⣿⢿⠈⠛⠿⠟⢹⣷⡀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⣀⡀⠀⠉⣁⡮⡿⠁⠀⠈⠉⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠁⠀⠀⠀⠀⠉⠀⠀⠀⠀⠀⠀⠈⠃⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠑⠭⠭⠿⠛⠓⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠢⡄⠀⡆⢀⠀⠀⠀⠀⡄⠀⠀⢀⡠⠄⠄⠄⡀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⠟⠛⠛⢿⡆⠀⠀⠀⠯⠋⠀⠀⠩⣿⠀⠀⢀⢾⠇⠁⣀⣥⠶⠓⠻⢯⡲⡌⡱⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⡁⠀⠀⠀⡸⣿⠀⠀⠀⣄⠀⠀⠀⠈⣮⠢⠀⣮⠏⠀⢨⣯⣧⣆⣒⣨⣡⣯⠏⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠈⠙⠦⣤⡤⠟⢝⡄⠀⠀⠧⠅⠀⠀⠀⣟⡄⡟⠅⠀⠀⠀⡏⣇⠈⠙⠓⠓⠁⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⢟⡅⠀⠀⠘⡇⠀⠀⠀⠈⠿⠃⠀⠀⠀⠀⠉⠻⣿⣦⣤⣤⣔⣯⡍⠁⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⡶⣄⢀⠀⠀⢀⡟⡑⠁⠀⠀⠀⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠋⠋⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠋⠭⠬⠋⠋⠉⠀⠀⠀⠀⠀⠀⠀⢀⡀⡀⡀⠀⠀⠀⠀⠀⢀⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠲⡦⡀⠀⠀⢀⡷⠋⣴⠃⠁⠁⡇⠻⣄⠀⠀⠀⣸⢸⠹⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⡦⣰⠏⠁⠀⢿⣀⢀⣴⠇⠀⠈⢯⣆⡦⣯⡋⠞⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣽⠋⠀⠀⠀⠑⠛⠋⠁⠀⠀⠀⠀⠀⠈⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣤⢯⠁⠀⠀⠀⢠⡆⠀⠀⠀⡄⠀⠀⠀⣾⡿⠿⠧⢿⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠀⠀⠀⠀⠀⣿⡏⠀⠀⠀⣿⡆⠀⠀⣿⣷⠁⡰⠿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠯⣿⣆⡀⣖⡟⠀⠀⠀⢹⣿⡿⠇⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠉⠉⠀⠀⠀⠀⠸⢧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-
-
-#### 先生、どうもありがとうございました。良い一日を過ごしてください！
-
-[1](./another-page.html)-[2](./Game.html)
