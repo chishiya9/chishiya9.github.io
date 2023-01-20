@@ -1,1 +1,1 @@
-<div class="tenor-gif-embed" data-postid="26903522" data-share-method="host" data-aspect-ratio="1.10345" data-width="100%"><a href="https://tenor.com/view/chainsaw-man-chainsaw-man-anime-anime-chainsaw-man-denji-power-gif-26903522">Chainsaw Man Chainsaw Man Anime GIF</a>from <a href="https://tenor.com/search/chainsaw+man-gifs">Chainsaw Man GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![](./https://media.tenor.com/f9zQeKW05D0AAAAM/blue-lock-anime.gif)
