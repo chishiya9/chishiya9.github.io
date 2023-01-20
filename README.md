@@ -1,4 +1,1 @@
-"丁廾乇尺乇 口刀꒟乇 山闩丂 闩丂 刀乇√乇尺 阝乇乍口尺乇, 阝乇꒟闩나丂乇 工乍 丁廾乇尺乇 山闩丂刀'丁, 工丁 山口나巜问刀'丁 廾闩√乇 阝乇乇刀 丁口巜问."
-
-
-![Pvu](https://user-images.githubusercontent.com/122244346/212360338-74586690-529e-42ae-954e-0992f2556d96.gif)
+<div class="tenor-gif-embed" data-postid="26903522" data-share-method="host" data-aspect-ratio="1.10345" data-width="100%"><a href="https://tenor.com/view/chainsaw-man-chainsaw-man-anime-anime-chainsaw-man-denji-power-gif-26903522">Chainsaw Man Chainsaw Man Anime GIF</a>from <a href="https://tenor.com/search/chainsaw+man-gifs">Chainsaw Man GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
